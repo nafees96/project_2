@@ -1,2 +1,2 @@
 # project2
-https://nafees96.github.io/project2/index.html
+https://nafees96.github.io/project_2/index.html
